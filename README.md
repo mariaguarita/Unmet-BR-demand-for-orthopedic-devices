@@ -35,4 +35,4 @@ What is the impact of auxiliary equipment on these people's lives?
 
 [Project Brief](https://github.com/mariaguarita/Unmet-BR-demand-for-orthopedic-devices/blob/main/PROJECT%20BRIEF.docx)
 
-[Project Viz](https://public.tableau.com/app/profile/maria.lucia1603/viz/FinalTaskCF/TheProject?publish=yes)
+[Project Viz](https://public.tableau.com/app/profile/maria.lucia1603/viz/FinalTaskCF/Story?publish=yes)
