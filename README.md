@@ -27,6 +27,6 @@ What is the impact of auxiliary equipment on these people's lives?
 
 **Provided Database:**
 
-[Customers Data Set](https://github.com/mariaguarita/Grocieres-sales-patterns/files/9833383/customers.1.zip)
+[Customers Data Set] [https://elsi.cpqrr.fiocruz.br/en/home-english/databases/]
 
-[Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b)
+[Data Dictionary] [https://elsi.cpqrr.fiocruz.br/en/home-english/questionnaires/]
