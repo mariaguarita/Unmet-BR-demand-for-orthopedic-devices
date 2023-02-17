@@ -27,6 +27,6 @@ What is the impact of auxiliary equipment on these people's lives?
 
 **Provided Database:**
 
-[Customers Data Set] [https://elsi.cpqrr.fiocruz.br/en/home-english/databases/]
+[Customers Data Set][https://elsi.cpqrr.fiocruz.br/en/home-english/databases/]
 
-[Data Dictionary] [https://elsi.cpqrr.fiocruz.br/en/home-english/questionnaires/]
+[Data Dictionary][https://elsi.cpqrr.fiocruz.br/en/home-english/questionnaires/]
